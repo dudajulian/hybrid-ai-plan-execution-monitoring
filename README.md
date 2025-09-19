@@ -1,6 +1,6 @@
 # Hybrid AI Plan Execution Monitoring
 
-This repository implements a hybrid system combining Large Language Models (LLMs) and Answer Set Programming (ASP) for **plan execution monitoring**. It is part of the *Intelligent Systems* lecture/practical at \[your institution].
+This repository implements a hybrid system combining Large Language Models (LLMs) and Answer Set Programming (ASP) for **plan execution monitoring**. It was part of the *Intelligent Systems* lecture/practical at *Graz University of Technology*.
 
 ---
 
