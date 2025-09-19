@@ -153,6 +153,12 @@ Include sample input and sample output in `answers/` for comparison.
 
 ---
 
+## Authors
+- Julian Duda
+- Nikolaus Lajtai
+  
+---
+
 ## License
 
 Apache 2.0
