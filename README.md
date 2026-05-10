@@ -24,6 +24,12 @@ Plan execution monitoring is the task of checking whether a plan is being carrie
 
 ---
 
+## Problems
+
+Unfortunately, we could only run the smallest ollama model. Respectively the reasoning of the LLM did not perform well. The LLM returned many false positives, thus not triggering the ASP solver.
+
+---
+
 ## Features
 
 * A module based on ASP for formal domain modelling and monitoring logic.
