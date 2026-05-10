@@ -28,7 +28,7 @@ Plan execution monitoring is the task of checking whether a plan is being carrie
 
 * A module based on ASP for formal domain modelling and monitoring logic.
 * A module using LLMs to interpret unexpected observations, ambiguous actions, or natural language descriptions.
-* Hybrid reasoning: deviations detected by ASP may trigger LLM-based inference; LLM outputs are checked/validated by ASP.
+* Hybrid reasoning: deviations detected by LLM-based inference trigger ASP to come up with an possible alternative plan.
 * Task scripts to run experiments / exercises (e.g. `task1.py`, `task2.py`)
 * Configuration for constants/domains separated (e.g. `asp_constants.py`, `llm_constants.py`)
 
