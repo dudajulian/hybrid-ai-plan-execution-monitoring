@@ -139,7 +139,7 @@ Adjust paths / domain constants as needed in configuration files.
 ## Examples
 
 * **Task 1**: Given a plan and observations, detect if plan execution deviates.
-* **Task 2**: Use LLM to interpret ambiguous observation and feed result to ASP to decide status.
+* **Task 2**: Use LLM to interpret ambiguous observations, trigger ASP to come up with an alternative plan.
 
 Include sample input and sample output in `answers/` for comparison.
 
